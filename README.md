@@ -1,0 +1,5 @@
+My name is Franklin Ndubuisi. This is CS2010 lab Assignment 4.
+My two projects uploaded in this lab are :
+1: The craps game: This game allows for user to gamble/wager money first starting at 100 credits until they decide to quit gambling and they win or they lose all their credits and they lose.
+2: The game of life :This game has some rules from Conway's game of life, which determines which cells live or not. Its a fun game which asks the user for the number of generations you will like to play for and then it generates it for you. to see what comes next click on the enter button and it will display the next generation. So to start it gives a blank board where the user will draw his glider gun to start and then it asks for how many generations you'll like to see and so on.
+So far i think this program runs well, haven't seen any limitations it. The second game was built under onlineGDB, and then i proceeded to complete it using ubuntu. To be successful with my program make sure to follow all the instructions.
